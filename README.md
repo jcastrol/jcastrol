@@ -1,7 +1,7 @@
 
 ![Banner](assets/github-header-image.png)
 
-### Hi I'm Jhonny Castro
+## Hi I'm Jhonny Castro
 ### Fullstack Developer | Software Architect | Passionate About Innovation
 
 I’m a Fullstack Developer with experience building modern solutions from scratch using tools like React, React Native, Node.js, Express, and Python, and clean architectures such as DDD and Hexagonal Architecture. I'm passionate about creating robust, scalable, and well-designed products.
